@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "TikTok Reels Script Generator";
+export const description = "Generate scripts for TikTok and Reels with ease.";
 export const url = process.env.NEXT_PUBLIC_URL;
